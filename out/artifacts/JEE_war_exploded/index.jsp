@@ -72,7 +72,7 @@
 						<ul class="nav navbar-nav navbar-right">
 							<li><a href="#"><span class="glyphicon glyphicon-user"></span> [User's Name]</a></li>
 							<li><a href="#"><span class="glyphicon glyphicon-shopping-cart"></span> Cart</a></li>
-							<li><a href="#"><span class="glyphicon glyphicon-earphone"></span> Contact Us</a></li>
+							<li><a href="#"><span class="glyphicon glyphicon-earphone"></span> Cart</a></li>
 						</ul>
 					</div>
 				</div>
