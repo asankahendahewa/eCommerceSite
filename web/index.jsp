@@ -15,6 +15,7 @@
 		<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
 		<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+		<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Bree Serif">
 		<script src="js/jquery-2.2.2.min.js"></script>
 		<script src="js/bootstrap.js"></script>
 		<script src="js/ninja-slider.js"></script>
@@ -60,7 +61,7 @@
 				</div>
 				<div class="collapse navbar-collapse" id="myNavbar">
 					<ul class="nav navbar-nav">
-						<li class="active"><a href="#">Deals</a></li>
+						<li class="active"><a href="index.jsp">Deals</a></li>
 						<li><a href="AllProducts.jsp">Browse All</a></li>
 						<li><a href="#">Movies</a></li>
 						<li><a href="#">Games</a></li>

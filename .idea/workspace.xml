@@ -2,20 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="366b0bf2-de73-4038-884a-963ea9f397ee" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/AllProducts.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ViewProduct.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/JEE_war_exploded/IMG/FCSlider1.png" afterPath="$PROJECT_DIR$/out/artifacts/JEE_war_exploded/IMG/FCSlider1.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/JEE_war_exploded/IMG/FCSlider2.png" afterPath="$PROJECT_DIR$/out/artifacts/JEE_war_exploded/IMG/FCSlider2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/JEE_war_exploded/IMG/FCSlider3.png" afterPath="$PROJECT_DIR$/out/artifacts/JEE_war_exploded/IMG/FCSlider3.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/JEE_war_exploded/IMG/FCSlider4.png" afterPath="$PROJECT_DIR$/out/artifacts/JEE_war_exploded/IMG/FCSlider4.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/JEE_war_exploded/IMG/FCSlider5.png" afterPath="$PROJECT_DIR$/out/artifacts/JEE_war_exploded/IMG/FCSlider5.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/IMG/FCSlider1.png" afterPath="$PROJECT_DIR$/web/IMG/FCSlider1.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/IMG/FCSlider2.png" afterPath="$PROJECT_DIR$/web/IMG/FCSlider2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/IMG/FCSlider3.png" afterPath="$PROJECT_DIR$/web/IMG/FCSlider3.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/IMG/FCSlider4.png" afterPath="$PROJECT_DIR$/web/IMG/FCSlider4.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/IMG/FCSlider5.png" afterPath="$PROJECT_DIR$/web/IMG/FCSlider5.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/JEE_war_exploded/index.jsp" afterPath="$PROJECT_DIR$/out/artifacts/JEE_war_exploded/index.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/AllProducts.jsp" afterPath="$PROJECT_DIR$/web/AllProducts.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/STYLES/ninja-slider.css" afterPath="$PROJECT_DIR$/web/STYLES/ninja-slider.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/ViewProduct.jsp" afterPath="$PROJECT_DIR$/web/ViewProduct.jsp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/index.jsp" afterPath="$PROJECT_DIR$/web/index.jsp" />
     </list>
     <ignored path="Source.iws" />
@@ -43,7 +32,7 @@
         <entry file="file://$PROJECT_DIR$/web/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="308">
-              <caret line="90" column="43" selection-start-line="90" selection-start-column="43" selection-end-line="90" selection-end-column="43" />
+              <caret line="92" column="37" selection-start-line="92" selection-start-column="37" selection-end-line="92" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -52,8 +41,8 @@
       <file leaf-file-name="ViewProduct.jsp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/ViewProduct.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1012">
-              <caret line="75" column="4" selection-start-line="75" selection-start-column="4" selection-end-line="75" selection-end-column="4" />
+            <state relative-caret-position="792">
+              <caret line="65" column="4" selection-start-line="65" selection-start-column="4" selection-end-line="65" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -62,8 +51,8 @@
       <file leaf-file-name="AllProducts.jsp" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web/AllProducts.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="594">
-              <caret line="56" column="16" selection-start-line="56" selection-start-column="16" selection-end-line="56" selection-end-column="16" />
+            <state relative-caret-position="440">
+              <caret line="167" column="88" selection-start-line="167" selection-start-column="88" selection-end-line="167" selection-end-column="88" />
               <folding />
             </state>
           </provider>
@@ -146,30 +135,6 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="Source" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Source" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JEE" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Source" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JEE" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -608,16 +573,16 @@
       <updated>1459713437471</updated>
       <workItem from="1459713443108" duration="7757000" />
       <workItem from="1459755687431" duration="80000" />
-      <workItem from="1459755912197" duration="2840000" />
+      <workItem from="1459755912197" duration="8941000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10677000" />
+    <option name="totallyTimeSpent" value="16778000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -628,7 +593,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1928651" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1928651" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -687,23 +652,23 @@
     <entry file="file://$PROJECT_DIR$/web/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
-          <caret line="90" column="43" selection-start-line="90" selection-start-column="43" selection-end-line="90" selection-end-column="43" />
+          <caret line="92" column="37" selection-start-line="92" selection-start-column="37" selection-end-line="92" selection-end-column="37" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/ViewProduct.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1012">
-          <caret line="75" column="4" selection-start-line="75" selection-start-column="4" selection-end-line="75" selection-end-column="4" />
+        <state relative-caret-position="792">
+          <caret line="65" column="4" selection-start-line="65" selection-start-column="4" selection-end-line="65" selection-end-column="4" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/AllProducts.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="56" column="16" selection-start-line="56" selection-start-column="16" selection-end-line="56" selection-end-column="16" />
+        <state relative-caret-position="440">
+          <caret line="167" column="88" selection-start-line="167" selection-start-column="88" selection-end-line="167" selection-end-column="88" />
           <folding />
         </state>
       </provider>

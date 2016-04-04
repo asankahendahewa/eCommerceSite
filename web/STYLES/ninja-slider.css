@@ -53,7 +53,7 @@
     width:100%;
     height:100%;
     background:transparent url(pattern.png) repeat 0 0;
-    top:0;left:0;
+    top:1;left:1;
 }
 
 
@@ -88,7 +88,7 @@
     position:absolute;
     width:100%;
     text-align:center;
-    color:rgba(255,255,255,0.8);
+    color:rgba(80,80,80,0.9);
     bottom:20%;
 }
 #ninja-slider li[class*='-s'] .caption {

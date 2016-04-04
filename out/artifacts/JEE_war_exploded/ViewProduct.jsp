@@ -20,22 +20,10 @@
 		<script src="js/ninja-slider.js"></script>
 		<link rel="stylesheet" href="STYLES/ninja-slider.css">
 		<style>
-			/* Remove the navbar's default rounded borders and increase the bottom margin */
-
-			.navbar {
+			.navbar 
+			{
 				margin-bottom: 50px;
 				border-radius: 0;
-			}
-			/* Remove the jumbotron's default bottom margin */
-
-			.jumbotron {
-				margin-bottom: 0;
-			}
-			/* Add a gray background color and some padding to the footer */
-
-			footer {
-				background-color: #f2f2f2;
-				padding: 25px;
 			}
 		</style>
 	</head>
@@ -60,8 +48,8 @@
 				</div>
 				<div class="collapse navbar-collapse" id="myNavbar">
 					<ul class="nav navbar-nav">
-						<li class="active"><a href="#">Deals</a></li>
-						<li><a href="#">Browse All</a></li>
+						<li class="active"><a href="index.jsp">Deals</a></li>
+						<li><a href="AllProducts.jsp">Browse All</a></li>
 						<li><a href="#">Movies</a></li>
 						<li><a href="#">Games</a></li>
 						<li><a href="#">Accesories</a></li>
@@ -74,6 +62,8 @@
 				</div>
 			</div>
 		</nav>
+		
+		
 	</body>
 
 </html>
